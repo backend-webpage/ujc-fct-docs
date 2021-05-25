@@ -1,0 +1,2 @@
+-Deve conter o template dos requisitos 
+-E o repositorio das funcionalidades a serem desenvolvidas
