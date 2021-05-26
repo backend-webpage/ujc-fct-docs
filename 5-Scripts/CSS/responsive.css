@@ -1,0 +1,113 @@
+@media(min-width: 992px){
+	#header .navbar-collapse{
+		margin-left: 10px;
+		margin-right: 10px;
+	}
+}
+@media(max-width: 991.98px){
+	#header .navbar-collapse{
+		width: 100%;
+	}
+	.linkPortais{
+		background-color: white;
+		min-height: 70px; 
+	}
+	.linkPortais a{
+		width: 100%;
+		margin-top: 10px;
+	}
+		#info2{
+		/*order: 1;*/
+		max-height: 400px;
+		background-color: black;
+		border:2px solid grey;
+		margin-bottom: 5px;
+
+	}
+	.aa {
+		display: inline-block;
+		//height: 400px;
+		text-align: left;
+		float: left;
+	}
+
+	/*#Slider .btn{
+		display: inline-block;
+		width: 100%;
+		//padding-top : 10px;
+	}*/
+	a{
+		text-align: center;
+	}
+	/*#model_slider{
+		width: 40%;
+	}*/
+}
+
+@media(max-width:767.98px){
+	/*.linkPortais{
+		background-color: white;
+		min-height: 150px; 
+	}
+	.linkPortais a{
+		width: 100%;
+		margin-top: 10px;
+	}*/
+	.conteudo{
+		display: inline-block;
+		width: 100%;
+	}
+
+	#info1{
+		//order: 2;
+		width: 100%;
+		overflow-y: scroll;
+	}
+	#info2{
+		/*order: 1;*/
+		//background-color:orange;
+	}
+	
+	.aaa {
+		///display: inline-block;
+		//height: 400px;
+		text-align: left;
+	}
+	#cfooter {
+		/*height: 400px;
+		background-color:black;
+		background-image: none;*/
+	
+	}
+	#estilo_amin{
+		display: none;
+
+	}
+	#col_links_admin{
+		max-height: 400px;
+	}
+	iframe{
+	/*	min-height: 200px;*/
+	margin-bottom: 20px;
+	}
+
+}
+@media (max-width: 1125px){
+	#footer .container {
+		height: 300px;
+			/*background-color:black;*/
+			//background-image: url(imagens/patestra.jpg);
+	}
+	#cfooter{
+		min-height: 350px;
+		background-color:black;
+		color: white;
+		background-size: 100%;
+		border-bottom: 10px solid var(--azul_UJC);
+		/*background-image: url(imagens/patestra.jpg);*/
+		/*background-size: 0px;*/
+		/*visibility:;*/
+	}
+
+}
+

@@ -1,0 +1,12 @@
+#header .navbar-collapse{
+	width: auto;
+}
+
+#header .nav-link:hover{
+	border-bottom: 2px solid var(--primary);
+
+}
+#header .nav-link{
+	border-bottom: 2px solid transparent;
+
+}

@@ -1,0 +1,78 @@
+.linkPortais{
+	height: 50px;
+	background: var(--azul_UJC);
+	margin-top: 10px;
+	text-align: center;
+	font-weight: 100px;
+	max-width: 1118px;
+	
+}
+body{
+	background-color: #F8F8FF;
+}
+/*#info1{
+	transition: 10s ease-out;
+}*/
+.linkPortais1{
+	height: 50px;
+	background: var(--azul_UJC);
+	margin-top: 10px;
+	text-align: center;
+	font-weight: 100px;
+	max-width: 1118px;
+	
+}
+.linkPortais a{
+	text-decoration: none;
+	padding-top: 10px;
+	display: inline-block;
+	color: white;
+}
+.linkPortais a:hover{
+	color: black;
+}
+
+.btn_portais{
+	background-color: var(--azul_UJC);
+}
+.informacao p{
+	font-size: 11pt;
+}
+
+#galeria .img-container{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 200px;
+
+}
+#galeria .img-container img{
+	max-height: 170px;
+	width: 99%;
+}
+#galeria .item-galeria{
+		/*border:1px solid #D3D3D3;
+		text-align: center;
+		margin-right: 2px;*/
+}
+#galeria a{
+	text-decoration: none;
+	font-size: 10pt;
+	transition: all ease-out 0.2s; 
+}
+#galeria a:hover{
+	color:black;
+	font-weight: bold;
+	/*color:orange;
+	background-color:black;
+	box-shadow: 0px 0px 10px 0px rgb(0,0,0,0.12);
+	transform: scale(1.01);*/
+	/*margin-top: 5px;*/
+}
+#galeria a.img-hover:hover{
+	color:orange;
+	background-color:black;
+	box-shadow: 0px 0px 10px 0px rgb(0,0,0,0.12);
+	transform: scale(1.01);
+	/*margin-top: 5px;*/
+}
