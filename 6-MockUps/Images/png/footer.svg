@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1876.282" height="443.661" viewBox="0 0 1876.282 443.661">
+  <g id="footer" transform="translate(-20.218 -123)">
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="1859" height="443" transform="translate(30.5 123)" fill="#1e90ff"/>
+    <path id="Polygon_2" data-name="Polygon 2" d="M560,0l560,443H0Z" transform="translate(1520 566) rotate(180)" fill="#fff"/>
+    <path id="Path_2" data-name="Path 2" d="M1632.383,646.77c2.186-2.781-219.956-.734-437.009,0-204.155.691-403.828,0-403.828,0l-10-442.5h381.924S1628.131,652.181,1632.383,646.77Z" transform="translate(-761.329 -81)"/>
+    <path id="Path_3" data-name="Path 3" d="M781.563,646.77c-.952-1.239,45.324,2.521,112.36,0,78.775-2.962,187.534-12.125,298.731-11.761,223.792.732,410.988,11.761,410.988,11.761l9.776-442.5H1237.424S785.72,652.181,781.563,646.77Z" transform="translate(282.6 -81)"/>
+    <path id="Path_4" data-name="Path 4" d="M746.743,646.77c-3.468-5.411,720.524,0,720.524,0l8.155-442.5H1103.48S750.211,652.181,746.743,646.77Z" transform="translate(421.078 -81)" fill="#1e90ff"/>
+  </g>
+</svg>
